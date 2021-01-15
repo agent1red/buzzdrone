@@ -14,7 +14,7 @@ namespace API.Controllers
     {
         private readonly StoreContext _context;
         public ProductsController(StoreContext context)
-        {
+        { 
             _context = context;
 
         }
