@@ -1,0 +1,114 @@
+[
+  {
+    "Name": "Bluegrass Fields Drone with Skycontroller",
+    "Description": "Parrot Bluegrass Fields is a quadcopter drone designed for both crop mapping and aerial scouting.",
+    "Price": 4499.99,
+    "PictureUrl": "images/products/bluegrass.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Mavic Mini Quadcopter",
+    "Description": "Fly faster, longer and quieter with this DJI Mavic Mini drone. The high-capacity battery lets you enjoy plenty of flight time on a single charge.",
+    "Price": 399.99,
+    "PictureUrl": "images/products/mavic.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Matrice 600 Pro",
+    "Description": "The Matrice 600 Pro inherits everything from the M600 with improved flight performance and better loading capacity.",
+    "Price": 6599.99,
+    "PictureUrl": "images/products/matrice.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Tiny Hawk 2",
+    "Description": "Following the groundbreaking performance of the predecessor, comes the newly re-invented Tinyhawk II Freestyle, the perfect beginner outdoor FPV quad!",
+    "Price": 119.99,
+    "PictureUrl": "images/products/tinyhawk.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Buzz",
+    "Description": "The BUZZ is a 5 size RTF (Ready-To-Fly) quadcopter that comes fully built with everything you need to have an amazing flight experience!",
+    "Price": 259.99,
+    "PictureUrl": "images/products/buzz.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Rodeo 110 Mini",
+    "Description": "Space-saving and lightweight, it has a high thrust-to-weight ratio, which makes it accelerate swiftly and allows you to indulge in the fun of flying indoors",
+    "Price": 149.99,
+    "PictureUrl": "images/products/rodeo.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Runner 250",
+    "Description": "The Walkera Runner 250 Pro GPS Racer Drone RC Quadcopter 800TVL HD Camera OSD DEVO 7 Racing Mini Drone Game Drone is the product you didn't think you need, but once you have it, something you won't want to live without.",
+    "Price": 429.99,
+    "PictureUrl": "images/products/runner.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Vitus",
+    "Description": "Walkera VITUS 320 is a professional aerial photography drone with foldable arm design and 12MP 4K camera, with 3-Axis gimbal provides super smooth image and large capacity LiPo battery.",
+    "Price": 879.99,
+    "PictureUrl": "images/products/vitus.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Storm SRD210",
+    "Description": "Meet the 4th Generation champion winning 5 FPV racer - ALL NEW Storm SRD210 V4 Storm Spec Storm has made a lot of changes to the SRD210 V4 platform.",
+    "Price": 349.99,
+    "PictureUrl": "images/products/storm.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Siro X3",
+    "Description": "The Storm Sirio series is a lightweight airframe that specially designed to use with Runcam Micro Swift, which is the Smallest FPV camera that use 1/3\" CCD sensor.",
+    "Price": 279.99,
+    "PictureUrl": "images/products/siro.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "X220 V2",
+    "Description": "ARRIS X220 V2 220mm FPV racig drone BNF is one of the best racing quad for freestyling.",
+    "Price": 179.99,
+    "PictureUrl": "images/products/arrisx.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Disco",
+    "Description": "Fixed-wing drone that reaches speeds up to 50 mph.",
+    "Price": 499.99,
+    "PictureUrl": "images/products/disco.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Swing Mini Drone",
+    "Description": "Parrot Swing is the only minidrone that lets you fly like plane with surprising ease. Vertical take-off and landing mode make it accessible to all drone pilots.",
+    "Price": 99.99,
+    "PictureUrl": "images/products/swing.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "The Dolphine",
+    "Description": "Fixed Wing Dolphin 845mm Wingspan FPV Aircraft RC Airplane KIT/PNP/FPV PNP.",
+    "Price": 169.99,
+    "PictureUrl": "images/products/dolphine.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  }
+]
